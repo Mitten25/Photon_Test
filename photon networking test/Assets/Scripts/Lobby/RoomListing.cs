@@ -40,10 +40,4 @@ public class RoomListing : MonoBehaviour
         RoomName = text;
         RoomNameText.text = RoomName;
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 }
